@@ -14,7 +14,7 @@
 	    "name": "ohWafHelpers",
         "type": "openhome",
         "platform-specific": false,
-        "version": "0.0.95",
+        "version": "0.0.98",
         "archive-filename": "${name}-${version}.tar.gz"
     }
 ]
